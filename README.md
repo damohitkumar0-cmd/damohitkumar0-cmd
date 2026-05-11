@@ -1,7 +1,10 @@
-💫 Hi 👋, I'm Mohit Kumar
-A passionate Data Scientist & Analyst from India
+**💫 Hi 👋, I'm Mohit Kumar**
+
+**A passionate Data Scientist & Analyst from India**
+
 
 Email Me 👉 ✉️ damohitkumar0.gmailcom For Collaboration/Project or Anything Else. 😊😊
+
 
 ## 🌐 Socials: 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damohitkumar0@gmail.com) 
